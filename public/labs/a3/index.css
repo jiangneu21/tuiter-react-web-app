@@ -348,18 +348,18 @@ p#id-selector-2 {
 }
 
 
-@media (min-width: 0px)
-and (max-width: 500px) {
+@media only screen and (min-width: 0px)
+and (max-width: 700px) {
     body {
-        background-color: bisque;
+        background-color: wheat;
     }
     .media-query {
         background-color: #61dafb;
         color: black;
     }
 }
-@media (min-width: 500px)
-and (max-width: 1000px) {
+@media (min-width: 700px)
+and (max-width: 1400px) {
     body {
         background-color: green;
         color: white;
@@ -369,8 +369,8 @@ and (max-width: 1000px) {
         color: black;
     }
 }
-@media (min-width: 1000px)
-and (max-width: 1600px) {
+@media (min-width: 1400px)
+and (max-width: 2000px) {
     body {
         background-color: gray;
         color: black;
