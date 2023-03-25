@@ -1,0 +1,28 @@
+[
+    {   "_id": 111,
+        "avatar": "../../tuiter/images/avatar.jpg",
+        "userName": "Elon Musk",
+        "handle": "@elonmusk",
+        "time": "23h",
+        "describe": "Amazing show about inspiration mission!",
+        "image": "../../tuiter/images/student.jpeg",
+        "title": "Countdown: Inspiration4 Mission to Space | Netfilx Official Site",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        "comments": "4.2K",
+        "shares": "3.5K",
+        "like": "37.5K"
+    },
+    {   "_id": 222,
+        "avatar": "../../tuiter/images/batman.jpg",
+        "userName": "New York Post",
+        "handle": "@nypost",
+        "time": "23h",
+        "describe": "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image": "../../tuiter/images/spacex.jpeg",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "comments": "965",
+        "shares": "2.4K",
+        "like": "4K"
+    }
+]

@@ -1,0 +1,16 @@
+[ {
+  "_id": 123,
+  "userName": "NASA",
+  "handle": "NASA",
+  "avatarIcon": "../../tuiter/images/nasa.jpeg"
+}, {
+  "_id": 234,
+  "userName": "Tesla",
+  "handle": "tesla",
+  "avatarIcon": "../../tuiter/images/Tesla.png"
+}, {
+  "_id": 345,
+  "userName": "SpaceX",
+  "handle": "SpaceX",
+  "avatarIcon": "../../tuiter/images/spaceicon.jpeg"
+} ]
