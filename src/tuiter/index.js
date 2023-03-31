@@ -20,7 +20,7 @@ const store = configureStore(
             {
                 who: whoReducer,
                 tuits: tuitsReducer,
-                newTuits: newTuitsReducer,
+                tuitsData: newTuitsReducer,
                 profile: profileReducer
             }});
 
