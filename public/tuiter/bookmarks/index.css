@@ -1,0 +1,105 @@
+body {
+    background-color: black;
+    font-family: "Arial";
+    color: white;
+}
+
+.wd-fg-color-grey {
+    color: rgb(47,51,54);
+}
+
+.wd-border-color-grey {
+    border: 1px none rgb(47, 51, 54);
+    border-bottom-style: solid;
+}
+.wd-outer-border {
+    border: 1px solid rgb(47, 51, 54);
+}
+
+.wd-section-border {
+    border: 1px solid rgb(47, 51, 54);
+    border-top-style: none;
+}
+
+h1#id-h1-bookmark {
+    font-size: 20px;
+    margin: 0;
+}
+p#id-handle {
+    font-size: 13px;
+    margin-top: 16px;
+    margin-bottom: 0;
+    color: gray;
+}
+.wd-head-section {
+    padding-left: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    width: 594px;
+}
+img#id-img-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    margin-left: 16px;
+    margin-top: 12px;
+}
+
+.wd-columns {
+    float: left;
+}
+.wd-col-left {
+    width: 80px;
+}
+.wd-col-right {
+    width: 530px;
+}
+.wd-float-done {
+    clear: both;
+}
+
+.wd-h3-author-handle {
+    font-weight: normal;
+    color: gray;
+}
+.wd-p-content {
+    max-width: 506px;
+    margin: 0 0 12px;
+    font-size: 15px;
+}
+
+img#id-img-student {
+    width: 504px;
+    height: 264px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin: 0;
+}
+
+.wd-p-box-content {
+    color: gray;
+    margin: 0 0 12px 12px;
+}
+.wd-box-border {
+    width: 504px;
+    border-radius: 20px;
+}
+.wd-fa-my-icon {
+    color: gray;
+}
+.wd-fa-icon-red {
+    color: red;
+}
+.wd-p-icon {
+    color: gray;
+    margin: 0 0 0 12px;
+}
+.wd-p-icon-red {
+    color: red;
+    margin: 0 0 0 12px;
+}
+.wd-icon-p-combine {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    width: 25%;
+}

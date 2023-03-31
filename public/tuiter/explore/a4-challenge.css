@@ -1,0 +1,34 @@
+.wd-no-border {
+    border: none;
+}
+.wd-fg-color-tweet {
+    color: #1DA1F2;
+}
+.wd-bg-color-tweet {
+    background-color: #1DA1F2;
+}
+
+.wd-active-bold {
+    font-weight: bold;
+}
+.wd-fg-color-grey {
+    color: gray;
+}
+.nav-item.active .nav-link {
+    border-bottom: 3px solid #1DA1F2;
+}
+.wd-image-container {
+    position: relative;
+}
+.wd-image-container .wd-image-text {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+}
+.wd-text-xl {
+    font-size: x-large;
+}
+.wd-text-sm {
+    font-size: small;
+}
